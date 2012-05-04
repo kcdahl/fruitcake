@@ -1,0 +1,5 @@
+# K.C. Dahl's page
+
+This is a test application using
+[*Ruby on Rails*](http://ev.il/)
+by [K.C. Dahl](http://kcdahl.com/).
