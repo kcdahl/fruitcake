@@ -62,7 +62,7 @@
         background-image: url("assets/Pop and Avery at home.jpg");
         background-repeat: no-repeat;
         background-position: top left;
-        height: 500px;
+        height: 300px;
       }
       #header h1, #header h2 {margin: 0}
       #header h2 {
