@@ -1,2 +1,35 @@
-<h1>xxx</h1>
-<p>This is the homepage for the <a href="http://kcdahl.com/">xxx</a> application</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fruitcake | Home</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+    <div id="page">
+      <div id="sidebar">
+        <ul id="sidebar-items">
+          <li>
+            <h3>Other Projects</h3>
+            <ul class="links">
+              <li><a href="http://eevil.herokuapp.com/">eEvil</a></li>
+              <li><a href="http://earthgong.blogspot.com/">Blog</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="content">
+        <div id="header">
+          <h1>Welcome to Fruitcake</h1>
+          <h2>This is K.C. Dahl's Homepage</h2>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,3 @@
+<% @title = 'About Me' %>
+<h1>About Me<h2>
+<p>My name is K.C. Dahl.</p>
